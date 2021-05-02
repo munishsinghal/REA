@@ -1,0 +1,7 @@
+C:\Work\Exam\RobotToy-REA\ToyRobotConsole\bin\Debug\ToyRobotConsole.exe.config
+C:\Work\Exam\RobotToy-REA\ToyRobotConsole\bin\Debug\ToyRobotConsole.exe
+C:\Work\Exam\RobotToy-REA\ToyRobotConsole\bin\Debug\ToyRobotConsole.pdb
+C:\Work\Exam\RobotToy-REA\ToyRobotConsole\obj\Debug\ToyRobot.Console.csprojAssemblyReference.cache
+C:\Work\Exam\RobotToy-REA\ToyRobotConsole\obj\Debug\ToyRobot.Console.csproj.CoreCompileInputs.cache
+C:\Work\Exam\RobotToy-REA\ToyRobotConsole\obj\Debug\ToyRobotConsole.exe
+C:\Work\Exam\RobotToy-REA\ToyRobotConsole\obj\Debug\ToyRobotConsole.pdb
